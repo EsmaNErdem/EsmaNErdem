@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @EsmaNErdem
-- 👀 I’m interested in coding and reading books.
+- 👋 Hi, I’m @EsmaNErdem.
 - 🌱 I’m currently learning HTML/CSS and JavaScript
 - 💞️ I’m looking forward to hearing your thoughts on my amature projects.
 - 📫 How to reach me esmaerdem94@gmail.com
