@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EsmaNErdem.
-- 🌱 I’m currently learning HTML/CSS, JavaScript adn Python
+- 🌱 I’m currently learning HTML/CSS, JavaScript and Python
 - 💞️ I’m looking forward to hearing your thoughts on my amature projects.
 - 📫 How to reach me esmaerdem94@gmail.com
 
