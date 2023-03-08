@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EsmaNErdem.
-- 🌱 I’m currently learning JavaScript, Jasmine, JQuery, Python, Flask and SQL
+- 🌱 I’m currently learning JavaScript, Jasmine, jQuery, Python, Flask and SQL
 - 💞️ I’m looking forward to hearing your thoughts on my amature projects.
 - 📫 How to reach me esmaerdem94@gmail.com
 
