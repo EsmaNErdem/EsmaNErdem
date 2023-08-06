@@ -23,11 +23,11 @@
  
 
 ##  Connect
--  [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/esma-erdem-398723229/)  Let's connect on [LinkedIn](https://www.linkedin.com/in/esma-erdem-398723229/) and create something extraordinary together!
+-  [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/esma-erdem-398723229/)  Let's connect on [LinkedIn](https://www.linkedin.com/in/esma-erdem-398723229/)
 - 📫 Email me at esmaerdem94@gmail.com
 - :page_facing_up: More experiences on [Portfolio Page](https://esmanerdem.github.io/esmaPorfolio/)
   
-**💞️ I’m looking forward to hearing your thoughts on my amateur projects.**
+**💞️ I’m looking forward to hearing your thoughts on my amateur projects and creating something extraordinary together!**
   
 <!---
 EsmaNErdem/EsmaNErdem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
