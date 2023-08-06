@@ -1,6 +1,7 @@
 ## 👋 Hi, I'm Esma
 **A passionate and versatile Software Engineer**
--  I thrive on challenges and love crafting efficient algorithms. With my diverse background, problem-solving skills, and effective communication, I'm determined to impact software development positively.
+
+*I thrive on challenges and love crafting efficient algorithms. With my diverse background, problem-solving skills, and effective communication, I'm determined to impact software development positively.*
   
 ## Languages and Libraries
 
