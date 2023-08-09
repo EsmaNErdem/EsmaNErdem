@@ -20,12 +20,15 @@
 - ![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white)
 - ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
+### Version Control
+- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  
 ## Currently 
 - 🌱 I’m currently working with Node.js and Express
  
-
 ##  Connect
--  [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/esma-erdem-398723229/)  Let's connect on [LinkedIn](https://www.linkedin.com/in/esma-erdem-398723229/)
+-  [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/esma-erdem-398723229/)   Let's connect on [LinkedIn](https://www.linkedin.com/in/esma-erdem-398723229/)
 - 📫 Email me at esmaerdem94@gmail.com
 - :page_facing_up: More experiences on [Portfolio Page](https://esmanerdem.github.io/esmaPorfolio/)
   
