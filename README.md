@@ -27,7 +27,7 @@
 - ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   
 ## Currently 
-- 🌱 I’m currently working with Node.js and Express
+- 🌱 I’m currently working with AWS-Cloud Services
  
 ##  Connect
 -  [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/esma-erdem-398723229/)   Let's connect on [LinkedIn](https://www.linkedin.com/in/esma-erdem-398723229/)
